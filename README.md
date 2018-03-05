@@ -1,4 +1,8 @@
 ## History of the Internet
+<p>ra563</p>
+<p>IS 117-006</p>
+<p>Intro to Website Development</p>
+
 
 You can use the [editor on GitHub](https://github.com/NEWguy70/IS117-006-RA--First-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
